@@ -1,0 +1,6 @@
+Hello, World!
+This is line number 2.
+The number is 12345.
+Appending line 4.
+Appending line 5.
+Final number is 67890.
